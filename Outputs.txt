@@ -1,0 +1,12 @@
+
+The input vector is : 1111110
+
+The faults propagated at the node 7 are: 1 s-a 0 , 9 s-a 1 , 12 s-a 0 , 13 s-a 0 , 7 s-a 0 , b 
+The faults propagated at the node 9 are: 9 s-a 1 , b 
+The faults propagated at the node 11 are: 3 s-a 0 , 11 s-a 1 , b 
+The faults propagated at the node 5 are: 9 s-a 1 , 5 s-a 0 , b 
+
+The total number of inputs applied are : 1
+The total number of faults detected are 8 out of 40
+The fault coverage is : 20
+The final fault list is : 10, 30, 50, 70, 91, 111, 120, 130, 

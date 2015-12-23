@@ -1,0 +1,42 @@
+﻿Build started 12-23-2015 16:33:32.
+     1>Project "G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Deductive Fault Simulator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(144): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(158): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(234): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(235): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(259): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(267): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(275): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(283): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(293): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(297): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(355): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(371): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(377): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(425): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(431): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(466): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(470): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(478): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(498): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(502): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(503): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(512): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(615): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(649): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(666): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(682): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\deductive fault simulator\source.cpp(683): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Debug\Deductive Fault Simulator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Debug\Deductive Fault Simulator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Debug\Deductive Fault Simulator.lib" /MACHINE:X86 Debug\Source.obj
+         Deductive Fault Simulator.vcxproj -> G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Debug\Deductive Fault Simulator.exe
+     1>Done Building Project "G:\Google Drive\Programs\Microsoft Visual Studio\6140\Deductive Fault Simulator\Deductive Fault Simulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.05
