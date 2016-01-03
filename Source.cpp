@@ -239,7 +239,7 @@ public:
 				}
 
 				no_spaces = 0;
-				lineCount;
+				lineCount++;
 			}
 
 	        inputFile.close();							// Close the file containing the interconnection
